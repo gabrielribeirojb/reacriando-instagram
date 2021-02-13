@@ -168,6 +168,18 @@ section.feed{
     position: relative;
 }
 
+.publicacao-single{
+    float: left;
+    width: 33.3%;
+    padding-top: 33.3%;
+    border: 4px solid rgb(245, 245, 245);;
+    background-size: 100% 100%;
+}
+
+#igtv{
+    display: none;
+}
+
 @media screen and (max-width: 768px){
     .search-box{
         display: none;
